@@ -1,0 +1,15 @@
+Source: semplice-default-settings
+Section: misc
+Priority: optional
+Maintainer: Eugenio Paolantonio (g7) <me@medesimo.eu>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: http://semplice-linux.org
+Vcs-Git: https://github.com/semplice/default-settings.git
+Vcs-Browser: https://github.com/semplice/default-settings
+
+Package: semplice-default-settings
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Semplice default settings
+ Generic default settings for Semplice.
