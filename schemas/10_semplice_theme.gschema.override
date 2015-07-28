@@ -1,0 +1,19 @@
+# Schema override for Semplice
+
+[org.semplicelinux.vera.settings]
+font-name = "Open Sans 10"
+icon-theme-name = "Faba-Mono"
+modules = "vera-color"
+theme-name = "Zukitre-Vera"
+cursor-theme-name = "DMZ-White"
+
+[org.semplicelinux.vera.openbox]
+font-activeonscreendisplay = "Open Sans 10"
+font-inactiveonscreendisplay = "Open Sans 10"
+font-onscreendisplay = "Open Sans 10"
+font-activewindow = "Open Sans 11"
+font-inactivewindow = "Open Sans 11"
+font-menuheader = "Open Sans 10"
+font-menuitem = "Open Sans 10"
+theme-name = "Zukitre-Vera"
+title-layout = "NLIMC"

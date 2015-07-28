@@ -1,6 +1,0 @@
-# Schema override for Semplice for Workstations 2015 "Jethro Tull"
-
-[org.semplicelinux.vera.desktop]
-image-path = ['/usr/share/backgrounds/semplice-jethro/semplice-jethro_2560x1600.png']
-vera-color = 'rgb(36,79,154)'
-background-mode = 'Crop'

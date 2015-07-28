@@ -1,0 +1,6 @@
+# Schema override for Semplice
+
+[org.semplicelinux.vera.desktop]
+image-path = ['/usr/share/backgrounds/semplice-numb/semplice-numb_2560x1600.png']
+vera-color = 'rgb(14,124,187)'
+background-mode = 'Crop'
